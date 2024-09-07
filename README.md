@@ -25,5 +25,5 @@
 
 ---
 ## 使用的资源
-Shader : https://github.com/ganlvtech/vrchat-screen-space-camera-render-texture
-ButtonUI C# : PoolParlorTablePrefab1.0.4c
+* Shader : https://github.com/ganlvtech/vrchat-screen-space-camera-render-texture
+* ButtonUI C# : PoolParlorTablePrefab1.0.4c
