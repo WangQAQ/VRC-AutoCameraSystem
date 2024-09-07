@@ -14,6 +14,8 @@
 
 #### 这里是安装说明书
 
+[说明书](https://github.com/WangQAQ123/VRC-AutoCameraSystem/blob/function/main/WangQAQ/AutoCameraSystem/Doc/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md)
+
 #### 安装完成后只需要走进视角球（用于直播的客户端），然后即可在其他客户端上操作机位
 #### 它的基本原理是使用 Render Texture 和 全屏Shader
 
